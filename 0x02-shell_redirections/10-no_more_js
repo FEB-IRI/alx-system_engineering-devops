@@ -1,2 +1,0 @@
-#!/bin/bash
-find . these types of -name "*.js" -delete 
